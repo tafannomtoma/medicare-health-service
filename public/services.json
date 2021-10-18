@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Consultations",
+        "fees": 1000,
+        "img": "https://i.ibb.co/hDrfWCT/image1.png",
+        "summary": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate ."
+    },
+    {
+        "id": 2,
+        "name": " Surgery",
+        "fees": 12000,
+        "img": "https://i.ibb.co/3mSgxbf/image2.png",
+        "summary": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate ."
+    },
+    {
+        "id": 3,
+        "name": "Diagnosis",
+        "fees": 6000,
+        "img": "https://i.ibb.co/BzHYdKm/image3.png",
+        "summary": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate ."
+    },
+    {
+        "id": 4,
+        "name": "Female Care",
+        "fees": 3000,
+        "img": "https://i.ibb.co/SB0Vkxh/image4.png",
+        "summary": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate ."
+    },
+    {
+        "id": 5,
+        "name": "Fertility",
+        "fees": 30000,
+        "img": "https://i.ibb.co/j8pSS27/image5.png",
+        "summary": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate ."
+    },
+    {
+        "id": 6,
+        "name": "Lab Test",
+        "fees": 5000,
+        "img": "https://i.ibb.co/XJ0cH61/image6.png",
+        "summary": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate ."
+    }
+]

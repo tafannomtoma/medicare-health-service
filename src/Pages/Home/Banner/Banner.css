@@ -1,0 +1,17 @@
+/* .banner-img{
+    width: 838px;
+    height: 600px;
+} */
+.silde-text{
+    color: #203646;
+}
+.slide-para{
+    color: rgb(243, 160, 130);
+}
+.slide-btn{
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border:none;
+}

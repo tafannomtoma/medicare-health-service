@@ -1,0 +1,19 @@
+.service-img{
+    height: 200px;
+    width: 350px;
+    padding-top: 20px;
+}
+.service{
+    background-color: rgb(193, 220, 221);
+    color: rgb(65, 20, 4);
+    border-radius: 20px;
+}
+.sevice-appoinment{
+    color: white;
+    background-color: orangered;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    
+}

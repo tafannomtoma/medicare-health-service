@@ -1,0 +1,52 @@
+{
+    "service": [
+        {
+            "name": "Consultations",
+            "phone": "98373-9277",
+            "adress": "Dhaka,Bangladesh",
+            "email": "medico@gmail.com",
+            "id": "1",
+            "summary": "Expatriate Health Insurance. International Medical Insurance for Expatriates. Designed for those living and working abroad. Various coverage area options. 7-Day Phone Support. BBB Accredited Business. Get Quotes. Highlights: BBB Accredited Business, Chat Support Available, Newsletter Available."
+        },
+        {
+            "name": "Surgery",
+            "phone": "98373-9277",
+            "adress": "Dhaka,Bangladesh",
+            "email": "medico@gmail.com",
+            "id": "2",
+            "summary": "Expatriate Health Insurance. International Medical Insurance for Expatriates. Designed for those living and working abroad. Various coverage area options. 7-Day Phone Support. BBB Accredited Business. Get Quotes. Highlights: BBB Accredited Business, Chat Support Available, Newsletter Available."
+        },
+        {
+            "name": "Diagnosis",
+            "phone": "98373-9277",
+            "adress": "Dhaka,Bangladesh",
+            "email": "medico@gmail.com",
+            "id": "3",
+            "summary": "Expatriate Health Insurance. International Medical Insurance for Expatriates. Designed for those living and working abroad. Various coverage area options. 7-Day Phone Support. BBB Accredited Business. Get Quotes. Highlights: BBB Accredited Business, Chat Support Available, Newsletter Available."
+        },
+        {
+            "name": "Female Care",
+            "phone": "98373-9277",
+            "adress": "Dhaka,Bangladesh",
+            "email": "medico@gmail.com",
+            "id": "4",
+            "summary": "Expatriate Health Insurance. International Medical Insurance for Expatriates. Designed for those living and working abroad. Various coverage area options. 7-Day Phone Support. BBB Accredited Business. Get Quotes. Highlights: BBB Accredited Business, Chat Support Available, Newsletter Available."
+        },
+        {
+            "name": "Fertility",
+            "phone": "98373-9277",
+            "adress": "Dhaka,Bangladesh",
+            "email": "medico@gmail.com",
+            "id": "5",
+            "summary": "Expatriate Health Insurance. International Medical Insurance for Expatriates. Designed for those living and working abroad. Various coverage area options. 7-Day Phone Support. BBB Accredited Business. Get Quotes. Highlights: BBB Accredited Business, Chat Support Available, Newsletter Available."
+        },
+        {
+            "name": "Lab Test",
+            "phone": "98373-9277",
+            "adress": "Dhaka,Bangladesh",
+            "email": "medico@gmail.com",
+            "id": "6",
+            "summary": "Expatriate Health Insurance. International Medical Insurance for Expatriates. Designed for those living and working abroad. Various coverage area options. 7-Day Phone Support. BBB Accredited Business. Get Quotes. Highlights: BBB Accredited Business, Chat Support Available, Newsletter Available."
+        }
+    ]
+}

@@ -1,4 +1,5 @@
 import React from 'react';
+
 import Doctor from '../Doctor/Doctor';
 
 
@@ -42,18 +43,22 @@ const doctors = [
 ]
 
 const Doctors = () => {
+    const doctor = doctors.slice(0, 3);
     return (
         <div id="doctors" className="container">
             <h2>Our doctors</h2>
             <div className="row">
                 {
-                    doctors.map(doctor => <Doctor
+                    doctor.map(doctor => <Doctor
                         key={doctor.id}
                         doctor={doctor}
                     ></Doctor>)
                 }
 
             </div>
+
+
+
         </div>
     );
 };

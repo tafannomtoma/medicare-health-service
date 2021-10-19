@@ -10,6 +10,8 @@ import AuthProvider from './contexts/AuthProvider';
 import PrivateRoute from './Pages/Login/Login/PrivateRoute/PrivateRoute';
 import Footer from './Pages/Home/Footer/Footer';
 import Doctor from './Pages/Home/Doctor/Doctor';
+import AboutUs from './Pages/AboutUs/AboutUs';
+import Contact from './Pages/Contact/Contact';
 
 
 
@@ -30,6 +32,12 @@ function App() {
             <Route path="/login">
               <Login></Login>
 
+            </Route>
+            <Route path="/about">
+              <AboutUs></AboutUs>
+            </Route>
+            <Route path="/contact">
+              <Contact></Contact>
             </Route>
             <PrivateRoute path="/appoinment/:serviceId">
               <Appoinment></Appoinment>

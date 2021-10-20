@@ -11,16 +11,18 @@ const Header = () => {
         <>
             <Navbar bg="light" variant="light" sticky="top" collapseOnSelect expand="lg">
                 <Container>
-                    <Navbar.Brand href="#home">< FcStumbleupon size="2em" />
+                    <Navbar.Brand href="#">< FcStumbleupon size="2em" />
                         MEDICO</Navbar.Brand>
+
                     <Navbar.Toggle />
                     <Navbar.Collapse className="justify-content-end">
                         <Nav.Link as={HashLink} to="/home#home">Home</Nav.Link>
                         <Nav.Link as={HashLink} to="/home#services">Services</Nav.Link>
                         <Nav.Link as={HashLink} to="/home#doctors">Doctors</Nav.Link>
-                        <Nav.Link as={HashLink} to="/home#blog">Blog</Nav.Link>
                         <Nav.Link as={Link} to="/about">AboutUs</Nav.Link>
+                        <Nav.Link as={HashLink} to="/home#blog">Blogs</Nav.Link>
                         <Nav.Link as={Link} to="/contact">Contact</Nav.Link>
+
                         {
                             user?.email ?
                                 <Button onClick={logOut} variant="dark">LogOut</Button> :

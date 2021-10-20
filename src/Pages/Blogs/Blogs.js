@@ -1,11 +1,11 @@
 import React from 'react';
 import { FcSelfie } from 'react-icons/fc';
-import './Blog.css';
+import './Blogs.css'
 
-const Blog = () => {
+const Blogs = () => {
     return (
         <div className="pt-5 pb-5">
-            <h3>Letest Post</h3>
+            <h3>Blog</h3>
 
             < FcSelfie size="3em" />
             <p>Medical News and articles you can trust from around the world. All content is written and reviewed <br /> by qualified health, medical and scientific experts.</p>
@@ -39,9 +39,8 @@ const Blog = () => {
                     <h6>Read More</h6>
                 </div>
             </div>
-
         </div>
     );
 };
 
-export default Blog;
+export default Blogs;

@@ -25,12 +25,13 @@ const Appoinment = () => {
 
 
     return (
-        <div className="appoinment-container">
+        <div className="appoinment-container m-5 p-5">
             <h2>This is appoinment:{serviceId}</h2>
             <h4> Name:{singleService?.name}</h4>
             <h5>Contact:{singleService?.phone}</h5>
             <h5>Email : {singleService?.email}</h5>
             <p>About Details:{singleService?.summary}</p>
+
 
 
         </div>

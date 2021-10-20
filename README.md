@@ -1,8 +1,8 @@
-Firebase hosting link:
+Firebase hosting link:https://healthcare-website-assig-c76ee.web.app/?fbclid=IwAR03vIBkU6nGFNoYRnCUkrx2P5HWOeTN6kC7h2bbhYcPHSATeAgabteEgqk
 
 
 
-github code link:
+github code link:https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-tafannomtoma
 
 
 

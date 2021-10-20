@@ -1,7 +1,8 @@
 import React from 'react';
+import Blogs from '../../Blogs/Blogs';
 
 import Banner from '../Banner/Banner';
-import Blog from '../Blog/Blog';
+
 import Doctors from '../Doctors/Doctors';
 import Insurance from '../Insurance/Insurance';
 import Quality from '../Quality/Quality';
@@ -18,7 +19,7 @@ const Home = () => {
             <Services></Services>
             <Insurance></Insurance>
             <Doctors></Doctors>
-            <Blog></Blog>
+            <Blogs></Blogs>
 
 
         </div>
